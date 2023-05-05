@@ -915,15 +915,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 894fd4a01edb2da409efadb21bf4501c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameObjects:
+  beanPrefaps:
   - {fileID: 3591335545564770915, guid: f528a036ae9d04843b7df3918675bf42, type: 3}
   - {fileID: 1288098928460814404, guid: 52e1e00533f2e874393472bcd8625126, type: 3}
   - {fileID: 6071617673650958549, guid: 66d43e6b7bb57344cb396368c3798daa, type: 3}
   - {fileID: 5801874691627613143, guid: 9b5e7fea69321bf47b442068b82d7110, type: 3}
   - {fileID: 663144252499228463, guid: b9630d7538683ee469343bcfc145adbc, type: 3}
-  selectedObject: {fileID: 0}
-  selectedObjectX: 0
-  selectedObjectY: 0
   scoreText: {fileID: 892067083}
 --- !u!4 &1766244835
 Transform:
